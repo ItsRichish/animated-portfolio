@@ -86,7 +86,7 @@ const Hero = ({ darkMode, toggleDarkMode }) => {
                 </a>
               </li>
               <li>
-                <a href="https://stackoverflow.com/users/21967287/richish-mandal">
+                <a href="https://leetcode.com/ItsRichish/">
                   <SiLeetcode className="w-[1.8rem] h-[1.8rem] text-xl hover:scale-125" />
                 </a>
               </li>

@@ -39,14 +39,14 @@ const Resume = () => {
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   Year 2020 - Present
                 </span>
-                <p className=" text-[.9rem] text-justify text-gray-500">
+                {/* <p className=" text-[.9rem] text-justify text-gray-500">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Excepturi nihil aut quae obcaecati alias placeat totam aperiam
                   pariatur quam? Accusantium minima aperiam error obcaecati
                   autem doloribus deserunt qui, laborum incidunt amet, numquam
                   eos cum tempora. Debitis, esse quae corporis deserunt officia
                   quos in a, quaerat vero odio vitae.
-                </p>
+                </p> */}
               </div>
             </div>
           </fieldset>
