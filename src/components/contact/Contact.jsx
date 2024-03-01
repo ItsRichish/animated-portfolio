@@ -73,7 +73,7 @@ const Contact = () => {
               rows="4"
               cols="50"
               placeholder="Write your message"
-              name=" "
+              name="message"
               id=""
               required
             />
